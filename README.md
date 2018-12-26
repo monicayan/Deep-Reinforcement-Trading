@@ -13,7 +13,7 @@ This is agent is good as predicting peads and troughs in short-term and not very
 
 Some of the results are shown below:
 
-![image](/Users/monicayan/GitHub/Deep-Reinforcement-Trading/images/^GSPC_2015.png)
+![image](/images/^GSPC_2015.png)
 
 Total profit: $ 972.43
 
