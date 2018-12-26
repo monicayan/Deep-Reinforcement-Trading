@@ -19,15 +19,19 @@ Total profit: $ 972.43
 
 
 
-![image](/Users/monicayan/GitHub/Deep-Reinforcement-Trading/images/^GSPC_2018.png)
+![image](/images/^GSPC_2018.png)
 
 Total profit: $1243.72
 
-![image](/Users/monicayan/GitHub/Deep-Reinforcement-Trading/images/AMZN_2018.png)
+
+
+![image](/images/AMZN_2018.png)
 
 Total profit: $1945.50
 
-![image](/Users/monicayan/GitHub/Deep-Reinforcement-Trading/images/FB_2018.png)
+
+
+![image](/images/FB_2018.png)
 
 Total profit: -$178.58
 
