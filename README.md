@@ -5,7 +5,7 @@ Deep Reinforcement Learning driven trading agent.
 
 This project is an implementation of Q-learning applied to stock trading. The agent uses n-day windows of closing prices to determine the best action at a given time is to buy, sell or sit.
 
-This is agent is good as predicting peads and troughs in short-term and not very good at making decisions over long-term trends, but is quite good at predicting peaks and troughs.
+This is agent is good as predicting peaks and troughs in short-term and not very good at making decisions over long-term trends, but is quite good at predicting peaks and troughs.
 
 
 
